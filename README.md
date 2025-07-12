@@ -25,6 +25,7 @@ I'm a passionate Full Stack Developer currently focusing on **Node.js, React**. 
 ### 📂 Projects
 [![ElectroMarket](https://github-readme-stats.vercel.app/api/pin/?username=OmarRafat975&repo=Electro-Market.&theme=tokyonight)](https://github.com/OmarRafat975/Electro-Market.) <br/>
 [![Natours](https://github-readme-stats.vercel.app/api/pin/?username=OmarRafat975&repo=Natours&theme=tokyonight)](https://github.com/OmarRafat975/Natours)
+[![Chatty](https://github-readme-stats.vercel.app/api/pin/?username=OmarRafat975&repo=Chatty&theme=tokyonight)](https://github.com/OmarRafat975/Chatty)
 
 
 ## 🌐 Contact:
