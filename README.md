@@ -4,8 +4,7 @@
 
 I'm a passionate Full Stack Developer currently focusing on **Node.js, React**. I love building scalable applications and continuously learning new technologies.
 
-🚀 **Currently:** Doing a React internship & building projects @LevelUp ESG® <br/>
-📚 **Learning:** Advanced React, Next.js, Advanced Express, Nest.js
+🚀 **Currently:** Frontend @Teknora e.k <br/>
 
 <hr/>
 
